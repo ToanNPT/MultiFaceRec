@@ -6,5 +6,5 @@ Please fill out full information in the Sign_up form after open the camera for c
 
 Notes:
 Step 1: To 'start' this project in visual studio, please open and run sql file to create database.
-\nStep 2: Go to the ConnectionData.cs and replace connection string correctly with your device
+Step 2: Go to the ConnectionData.cs and replace connection string correctly with your device
 
